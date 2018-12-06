@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242923043949",
+    "firebase_url": "https://kinetic-anvil-224009.firebaseio.com",
+    "project_id": "kinetic-anvil-224009",
+    "storage_bucket": "kinetic-anvil-224009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242923043949:android:7b605a71e7cc1b75",
+        "android_client_info": {
+          "package_name": "e.msi.trackingmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242923043949-lgeur2as5qvjfhiuj3i4r1rm6qsgppfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.msi.trackingmap",
+            "certificate_hash": "01414b1ae524382266fdbd3c07a2f71e61d8b561"
+          }
+        },
+        {
+          "client_id": "242923043949-u63t6igej082f94jh1ie82tgs9nmjmbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtK2RwC1wOws8dFgllf9WhUI9cLHQFRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242923043949-u63t6igej082f94jh1ie82tgs9nmjmbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
